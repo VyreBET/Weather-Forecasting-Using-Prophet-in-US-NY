@@ -1,5 +1,5 @@
 # Weather-Forecasting-Using-Prophet-in-US-NY
-# Weather Forecasting using Prophet
+## Weather Forecasting using Prophet
 
 This project demonstrates how to forecast weather data using Facebook Prophet in Python. It is beginner-friendly and includes step-by-step instructions.
 
