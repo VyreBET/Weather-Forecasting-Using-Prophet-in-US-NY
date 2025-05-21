@@ -44,3 +44,5 @@ Replace `weather.csv` with your own weather data in the same format.
 ---
 
 **Feel free to fork this project and try your own experiments! If you have questions, open an issue or discussion.**
+
+## PS I used VS Code for this project But I Suggest using Jupyter Lab
